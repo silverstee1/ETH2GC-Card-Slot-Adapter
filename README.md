@@ -23,8 +23,8 @@ https://github.com/webhdx
 
 Fastening: I used M2x4 pan head self tapping phillips screws from a generic amazon kit for the 4 screw posts.
 
-![20240317_020924](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/e0882300-fe4a-49a3-97c2-5357802366c5)
-![20240317_020906](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/57c4ee32-db21-4a3b-b180-a04f8f7747b5)
+![20240317_143611](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/7ba3921c-5224-42dc-a9c9-55da13cd5560)
+![20240317_143636](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/163c4e98-64e6-4195-8ea9-10028cf1ce4c)
 ![20240317_020744](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/fc6a82af-cd5d-443e-bf05-398a12925b32)
 ![20240317_021131](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/ae0e06c6-589e-4c3e-930c-9d1e23503624)
 ![20240317_134145](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/056abede-1bfb-4126-b440-c25f7b17f665)

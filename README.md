@@ -18,6 +18,7 @@ On the bottom of the PCB is 2x5 female 2.54mm pin connector soldered to the PCB 
 for the cover I had it facing flat side down on the build plate.
 
 Case modified from WebHDX's Thingiverse gecko case https://www.thingiverse.com/thing:4866325
+https://github.com/webhdx
 
 Fastening: I used M2x4 pan head self tapping phillips screws from a generic amazon kit for the 4 screw posts.
 

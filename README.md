@@ -4,6 +4,7 @@ ETH2GC Card Slot PCB, Case Files
 Card Slot Adapter on the front of the Gamecube for the ETH2GC BBA Emulation made by Extremes using the ENC28J60 Module.
 
 BBA Emulation is not supported on the front slots but other network features are accessible see swiss-gc github for more details.
+https://github.com/emukidid/swiss-gc
 
 Select 1.6mm thickness PCB when ordering with ENIG surface finish for long life wear and tear, I choose HASL for cheap 1 off tests.
 

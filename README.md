@@ -1,7 +1,7 @@
 # ETH2GC-Card-Slot-Adapter
 ETH2GC Card Slot PCB, Case Files
 
-Card Slot Adapter on the front of the Gamecube for the ETH2GC BBA Emulation made by Extremes using the ENC28J60 Module.
+Card Slot Adapter on the front of the Gamecube for the ETH2GC BBA Emulation made by Extrems using the ENC28J60 Module.
 
 https://github.com/Extrems
 

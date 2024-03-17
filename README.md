@@ -7,6 +7,7 @@ BBA Emulation is not supported on the front slots but other network features are
 
 https://github.com/emukidid/swiss-gc
 
+PCB Fab:
 Select 1.6mm thickness PCB when ordering with ENIG surface finish for long life wear and tear, I choose HASL for cheap 1 off tests.
 
 On the bottom of the PCB is 2x5 female 2.54mm pin connector soldered to the PCB to mate with the ENC28J60 Module once assembled.

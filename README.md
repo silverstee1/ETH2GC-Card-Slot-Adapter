@@ -12,7 +12,7 @@ Select 1.6mm thickness PCB when ordering with ENIG surface finish for long life 
 
 On the bottom of the PCB is 2x5 female 2.54mm pin connector soldered to the PCB to mate with the ENC28J60 Module once assembled.
 
-3D Printing: I printed with the model standing up, the Ethernet Jack facing down on the build plate with Tree supports set to auto on my FDM Bambu X1C printer.
+3D Printing: I printed in PLA+ with the model standing up, the Ethernet Jack facing down on the build plate with Tree supports set to auto on my FDM Bambu X1C printer.
 for the cover I had it facing flat side down on the build plate.
 
 Case modified from WebHDX's Thingiverse gecko case https://www.thingiverse.com/thing:4866325

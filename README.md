@@ -23,11 +23,11 @@ Case modified from WebHDX's Thingiverse gecko case https://www.thingiverse.com/t
 
 Fastening: I used M2x4 pan head self tapping phillips screws from a generic amazon kit for the 4 screw posts.
 
-![20240317_143611](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/7ba3921c-5224-42dc-a9c9-55da13cd5560)
-![20240317_143636](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/163c4e98-64e6-4195-8ea9-10028cf1ce4c)
-![20240317_020744](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/fc6a82af-cd5d-443e-bf05-398a12925b32)
-![20240317_021131](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/ae0e06c6-589e-4c3e-930c-9d1e23503624)
-![20240317_134145](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/056abede-1bfb-4126-b440-c25f7b17f665)
-![20240317_134232](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/1d354972-4f2e-4343-9d3d-7f28047b45dd)
-![20240317_141411](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/1da4dd87-8296-4f7f-944b-57bc8748629d)
-![20240317_141234](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/f51da438-5d7d-4169-ba32-9fc934f3013c)
+![1-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/da43a7d5-8d73-4930-80f8-ae9f250b8f95)
+![2-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/2f6dce42-54c0-4640-a93d-18020e30d780)
+![3-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/496b2cd3-1d45-4c19-960c-9cd356757771)
+![4-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/82ffe8b7-9a92-4e59-b1b3-29a537952539)
+![5-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/e1258e42-5e0d-47b0-ac63-3ec1eeceb54b)
+![6-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/45776fac-379c-4313-a98a-ead2cc1ee949)
+![7-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/fa8afa1c-0855-41db-a756-10f6d660a5bf)
+![8-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/817c9caf-1dca-4a3c-bd67-532c9073025b)

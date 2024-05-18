@@ -41,7 +41,9 @@ Slim Version requires a bit more DIY, desoldering c1 capacitor and relocating it
 Case Already posted in Slim Cases, hopefully slim pcb can resolve the C1 cap relocation and only need the crystal to be desoldered and resoldered sideways.
 
 TODO:
-- Waiting to test Slim version PCB.
+- ~~Waiting to test Slim version PCB.~~
+
+Slim PCB works without the need for C1 relocation, the 25mhz crystal still needs to be soldered sideways with slim pcb.
 
 
 ![20240415_181819-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/07b4830d-d836-427b-a1d1-bfe58c267253)

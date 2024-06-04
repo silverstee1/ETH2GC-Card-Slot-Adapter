@@ -9,7 +9,7 @@ https://github.com/webhdx
 
 ~~BBA Emulation is not currently supported on the front slots but other network features such as FSP and Disc/IPL Dumping and more are accessible see swiss-gc github for more details.~~
 
-As of swiss_1644 artifact build, BBA emulation has been added to Swiss Hypervisor and works on the front slots. See swiss build commit for more details.
+As of swiss_1644 artifact build and Swiss Release Swiss v0.6r1664, BBA emulation has been added to Swiss Hypervisor and works on the front slots. See swiss build commit for more details.
 
 https://github.com/emukidid/swiss-gc
 

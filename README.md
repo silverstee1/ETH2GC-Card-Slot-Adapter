@@ -23,7 +23,7 @@ for the cover I had it facing flat side down on the build plate.
 
 Case modified from WebHDX's Thingiverse gecko case https://www.thingiverse.com/thing:4866325
 
-Fastening: I used M2x4 pan head self tapping phillips screws from a generic amazon kit for the 4 screw posts.
+Fastening: I used M2x4 pan head self tapping phillips screws from a generic amazon kit for the 4 screw posts but a better alternative is M2x5 countersunk self tapping screws for a flat smooth finish.
 
 ![1-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/da43a7d5-8d73-4930-80f8-ae9f250b8f95)
 ![2-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/2f6dce42-54c0-4640-a93d-18020e30d780)

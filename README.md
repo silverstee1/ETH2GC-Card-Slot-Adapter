@@ -38,7 +38,7 @@ Fastening: I used M2x4 pan head self tapping phillips screws from a generic amaz
 
 **SLIM VERSION**
 
-Slim Version requires a bit more DIY, desoldering c1 capacitor and relocating it to top connecting pin 1 of the chip to capacitor the otherside of the capacitor to ground plane scrapped off on the board, desoldering Crystal and resoldering it sideways, and soldering the bottom of the ENC28J60 pins to the top of the adapter PCB as flush as possible then snipping off the top of the pins on the ENC28J60 module, currently awaiting test PCB for SLIM version to make it easier.
+Slim Version requires a bit more DIY, desoldering c1 capacitor and relocating it to top connecting pin 1 of the chip to capacitor the otherside of the capacitor to ground plane scrapped off on the board, desoldering Crystal and resoldering it sideways, and soldering the bottom of the ENC28J60 pins to the top of the adapter PCB as flush as possible then snipping off the top of the pins on the ENC28J60 module, ~~currently awaiting test PCB for SLIM version to make it easier~~.
 
 Case Already posted in Slim Cases, hopefully slim pcb can resolve the C1 cap relocation and only need the crystal to be desoldered and resoldered sideways.
 

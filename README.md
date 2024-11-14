@@ -11,6 +11,8 @@ https://github.com/webhdx
 
 As of swiss_1644 artifact build and Swiss Release Swiss v0.6r1664, BBA emulation has been added to Swiss Hypervisor and works on the front slots. See swiss build commit for more details.
 
+Disc iso streaming is not supported on the ENC28J60
+
 https://github.com/emukidid/swiss-gc
 
 PCB Fab:

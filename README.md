@@ -24,12 +24,12 @@ When ordering for example from JLCPCB, Select 1.6mm PCB thickness with ENIG surf
 
 On the bottom of the PCB is 2x5 female 2.54mm pin connector soldered to the PCB to mate with the ENC28J60 Module once assembled.
 
-3D Printing: I printed in PLA+ with the model standing up, the Ethernet Jack facing down on the build plate with Tree supports set to auto on my FDM Bambu X1C printer.
+**3D Printing:** I printed in PLA+ with the model standing up, the Ethernet Jack facing down on the build plate with Tree supports set to auto on my FDM Bambu X1C printer.
 for the cover I had it facing flat side down on the build plate.
 
 Case modified from WebHDX's Thingiverse gecko case https://www.thingiverse.com/thing:4866325
 
-Fastening: I used M2x4 pan head self tapping phillips screws from a generic amazon kit for the 4 screw posts but a better alternative is M2x5 countersunk self tapping screws for a flat smooth finish.
+**Fastening:** I used M2x4 pan head self tapping phillips screws from a generic amazon kit for the 4 screw posts but a better alternative is M2x5 countersunk self tapping screws for a flat smooth finish.
 
 ![1-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/da43a7d5-8d73-4930-80f8-ae9f250b8f95)
 ![2-min](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter/assets/54997238/2f6dce42-54c0-4640-a93d-18020e30d780)

@@ -15,6 +15,10 @@ Disc iso streaming is not supported on the ENC28J60
 
 https://github.com/emukidid/swiss-gc
 
+# Check Out the newer, smaller, and more powerful card slot version based on the W5500 module below
+
+https://github.com/silverstee1/WizNet-Card-Slot-Adapter
+
 PCB Fab:
 When ordering for example from JLCPCB, Select 1.6mm PCB thickness with ENIG surface finish for long life wear and tear, I choose HASL for cheap 1 off tests.
 
